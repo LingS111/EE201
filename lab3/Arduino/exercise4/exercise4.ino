@@ -13,7 +13,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-    digitalWrite(13, LOW);
+  digitalWrite(13, LOW);
   digitalWrite(12, LOW);
   digitalWrite(9, LOW);
   digitalWrite(8, LOW);
